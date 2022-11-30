@@ -9,7 +9,7 @@
  <div align="center">
 <img height="500px"  src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" align="center"  />
 </div>
-<h3 align="center"> I AM A Full Stack Web Developer </h3>
+
 
   <div align="center">
 <img height="500px" width="100%"  src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" align="center"  />
