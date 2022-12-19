@@ -60,9 +60,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anki2001ta&count_private=true&show_icons=true&theme=radical" />
 </a>
 
- <a href="https://github.com/anki2001ta">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anki2001ta&count_private=true&show_icons=true&theme=radical" />
-</a>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anki2001ta)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anki2001ta)
