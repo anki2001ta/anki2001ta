@@ -71,5 +71,5 @@
   
   ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=anki2001ta&layout=compact&theme=algolia" alt="anki2001ta" /> </p>
 
