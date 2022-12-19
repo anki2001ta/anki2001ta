@@ -12,7 +12,7 @@
 
 
   <div align="center">
-<img height="500px" width="100%"  src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" align="center"  />
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001ta" /> </p>
