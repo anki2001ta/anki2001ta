@@ -53,12 +53,8 @@
 
 ## My GitHub Stats 📊
 
-<a href="https://github.com/anki2001ta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anki2001ta" />
-</a>
-<a href="https://github.com/anki2001ta">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anki2001ta&count_private=true&show_icons=true&theme=radical" />
-</a>
+ <img align="center" src="https://github-stats-alpha.vercel.app/api?username=nrishav007" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrishav007" />
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anki2001ta)
