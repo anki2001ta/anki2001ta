@@ -1,6 +1,6 @@
 <h1>WELCOME TO ANKITA's HUB</h1>
 <div align="center">
-<img height="500px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmLk6Uw6ImuC9AWmkrWuWze2p4fmxa17KoQ&usqp=CAU" align="center"/>
+<img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 </div>
  <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -35,22 +35,21 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
+<div align="center">
 <img height="350px" width="50%" align="center" alt="Github" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47asx2dkn919in2u9b1xhp4k76bry675iuvdsw944w&rid=giphy.gif&ct=g" />
+ </div>
 
 
 ## My GitHub Stats 📊
 
- <img align="center" src="https://github-stats-alpha.vercel.app/api?username=anki2001ta" />
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anki2001ta" />
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anki2001ta" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anki2001ta&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ankita" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anki2001ta)
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anki2001ta&theme=algolia" alt="anki2001ta" /></p>
 
-
-  
-  ## :trophy: Git profile Trophies
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=anki2001ta&layout=compact&theme=algolia" alt="anki2001ta" /> </p>
 
