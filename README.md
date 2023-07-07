@@ -8,7 +8,7 @@
 </h3>
  
   <div align="center">
- <p>I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects.I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
+ <p>I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001ta" /> </p>
@@ -19,7 +19,7 @@
 
 -  All of my projects are available at [here](https://anki2001ta.github.io/)
 
--  Ask me about **HTML , CSS , Javascript , Reactjs , Algorithms**
+-  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms,Next.js,Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices,TailwindCss, MaterialUI, ChakraUI,AntD**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
