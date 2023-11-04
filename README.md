@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME TO ANKITA's HUB</h1>
+<h1 align="center" color="blue">WELCOME TO ANKITA's HUB</h1>
 <div align="center">
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 </div>
@@ -19,7 +19,7 @@
 
 -  All of my projects are available at [here](https://anki2001ta.github.io/)
 
--  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms,Next.js,Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices,TailwindCss, MaterialUI, ChakraUI,AntD**
+-  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms,Next.js,Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
