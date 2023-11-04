@@ -1,4 +1,4 @@
-<h1>WELCOME TO ANKITA's HUB</h1>
+<h1 align="center">WELCOME TO ANKITA's HUB</h1>
 <div align="center">
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 </div>
