@@ -1,5 +1,5 @@
 <h1 align="center" color="blue">WELCOME TO ANKITA's HUB</h1>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=#7CB9E8&style=flat" alt="Ankita Deb" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=9130c5&style=flat" alt="Ankita Deb" /> </p>
 <div align="center">
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 </div>
